@@ -25,3 +25,16 @@ Follow these instructions to get ConvoCraft up and running on your local machine
 
    ```bash
    pip install -r requirements.txt
+
+
+## Usage:
+
+1. Run  the Chatbot Application:
+   ```bash
+   streamlit run ConvoCrafter.py
+
+2. Start Interacting with the ConvoCrafter
+
+## Contributing:
+
+Contributions are welcome! If you have ideas for improvements, bug reports, or new features, please open an issue or submit a pull request.

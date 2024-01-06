@@ -34,6 +34,9 @@ Follow these instructions to get ConvoCraft up and running on your local machine
 
 2. Start Interacting with the ConvoCrafter
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contributing:
 
 Contributions are welcome! If you have ideas for improvements, bug reports, or new features, please open an issue or submit a pull request.
